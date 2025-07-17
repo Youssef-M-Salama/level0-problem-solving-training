@@ -1,4 +1,4 @@
-# 📘 Level 0 Problem Solving Training
+#  Level 0 Problem Solving Training
 
 This repository contains contests and problem upsolving materials for the **Level 0 Problem Solving Training** program.
 
@@ -6,7 +6,7 @@ Each week is organized in its own folder containing the contest solutions and re
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```plaintext
 Week-#/
