@@ -16,7 +16,7 @@ Week-#/
 │   ├── ...
 │   └── contestLink.md
 ├── contest-details.md
-
+```
 ---
 
 ##  Notes
