@@ -13,10 +13,10 @@ Week-#/
 ├── contest/
 │   ├── a.cpp
 │   ├── b.cpp
-│   └── ...
+│   ├── ...
+│   └── contestLink.md
 ├── contest-details.md
 
-```
 ---
 
 ##  Notes
