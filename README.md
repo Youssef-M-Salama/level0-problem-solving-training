@@ -15,11 +15,15 @@ Week-#/
 │   ├── b.cpp
 │   └── ...
 ├── contest-details.md
-```
 
+```
 ---
 
 ##  Notes
 
-- The **materials** and **programming language** used are based on **my personal preferences** for better learning and comfort.
-- However, the **core content**—including **videos, contests, and practice problems**—is **mandatory** and must be completed as part of the training schedule.
+- The materials and programming language used are based on my personal preferences for better learning and comfort.
+
+- However, the core content—including videos, contests, and practice problems—is mandatory and must be completed as part of the training schedule.
+
+- The listed deadlines are estimated for someone fully focused on this training.
+- If they don’t match your pace, you can set your own realistic deadlines — the important thing is consistency and completion.
