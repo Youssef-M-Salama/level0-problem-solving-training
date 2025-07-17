@@ -32,6 +32,23 @@
 
 ---
 
+## Problem Y  
+[https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y)
+####  Prefix & Suffix Sum
+
+- [https://youtu.be/MHAlCy6S3NI?si=P2tfGn93enkrYMov](https://youtu.be/MHAlCy6S3NI?si=P2tfGn93enkrYMov)  
+- [https://youtu.be/8CjGHCDNpYo?si=paanlHih75Q5qZNU](https://youtu.be/8CjGHCDNpYo?si=paanlHih75Q5qZNU)
+
+---
+
+## Problem Z  
+[https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
+#### Binary Search
+- https://youtu.be/qxhfkoDGGZc?si=PtT1Ctrz8uG-CZNz
+
+
+---
+
 > "Later, we will learn about the system every now and then."
 
 ---
