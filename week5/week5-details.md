@@ -1,5 +1,8 @@
 # Week 5
+##  Sheet
+[Codeforces Sheet - Functions](https://codeforces.com/group/MWSDmqGsZm/contest/223205)
 
+---
 **Function session:**  
 [https://youtu.be/z61hvizsrZs?si=_vf9D_M9oNlukcmU](https://youtu.be/z61hvizsrZs?si=_vf9D_M9oNlukcmU)  
 
